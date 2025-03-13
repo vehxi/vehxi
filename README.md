@@ -8,7 +8,7 @@
 ### ⊹[connect]≻  
 ⌁ [@v3hx1](https://twitter.com/v3hx1)  
 ⌁ [vehxi.github.io](https://vehxi.github.io/)  
-⌁ tarakanov.alnk@gmail.com  
+⌁ vehxi.dev@gmail.com
 
 ### ⊹[stats]≻  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vehxi&show_icons=true&theme=radical)  
