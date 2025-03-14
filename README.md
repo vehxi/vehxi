@@ -11,7 +11,7 @@
 ⌁ vehxi.dev@gmail.com
 
 ### ⊹[stats]≻  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vehxi&layout=compact&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vehxi&layout=compact&theme=radical)  
 
 /* less_code ⊻ more_thoughts ⊻ */  
 ≻≻≻[END]≺≺≺
