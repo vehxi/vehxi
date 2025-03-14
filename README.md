@@ -1,4 +1,4 @@
-# ⊹Vëhxï≻_  
+# ⊹vëhxï≻_  
 
 // web_voyager ⊻ shaping_digital_space ⊸  
 
