@@ -3,7 +3,7 @@
 // web_voyager ⊻ shaping_digital_space ⊸  
 
 ≫ current_stack: exploring_web_dev  
-≫ interests: web_dev ⊻ JS ⊻ AI ⊻ automation  
+≫ interests: web_dev
 
 ### ⊹[connect]≻  
 ⌁ [telegram](https://t.me/vehxi)  
