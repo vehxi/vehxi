@@ -10,12 +10,5 @@
 ⌁ [twitter](https://twitter.com/v3hx1)  
 ⌁ vehxi.dev@gmail.com
 
-### ⊹[stats]≻  
-![vehxi's Stats](https://github-readme-stats.vercel.app/api?username=vehxi&theme=great-gatsby&show_icons=true&hide_border=true&count_private=true)
-
-![vehxi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vehxi&theme=great-gatsby&hide_border=true)
-
-![vehxi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vehxi&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact)
-
 /* less_code ⊻ more_thoughts ⊻ */  
 ≻≻≻[END]≺≺≺
