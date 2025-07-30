@@ -1,6 +1,6 @@
-# Hey there! 👋  
+# wassup
 
-I'm vëhxï — a student and frontend developer. I totally dig turning ideas into interactive websites. When I'm not doing that, you'll usually find me just learning new stuff and building out some cool projects.
+i'm vëhxï — a student and frontend developer. i totally dig turning ideas into interactive websites. when i'm not doing that, you'll usually find me just learning new stuff and building out some cool projects.
 
 <p align="center">
   <a href="https://skillicons.dev">
