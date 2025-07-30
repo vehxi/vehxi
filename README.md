@@ -4,7 +4,7 @@ I'm vëhxï — a student and frontend developer. I totally dig turning ideas in
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,gulp" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,gulp,react,docker" />
   </a>
 </p>
 
