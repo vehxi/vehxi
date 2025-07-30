@@ -8,10 +8,6 @@ i'm vëhxï — a student and frontend developer. i totally dig turning ideas in
   </a>
 </p>
 
-![lofi](https://img.shields.io/badge/listening-lofi%20beats-181717?style=flat&logo=applemusic&logoColor=red)
-![vibe](https://img.shields.io/badge/mood-chill-181717?style=flat&logo=zap&logoColor=yellow)
 ![learning](https://img.shields.io/badge/learning-react-181717?style=flat&logo=react)
-![coffee](https://img.shields.io/badge/coffee-first-181717?style=flat&logo=buymeacoffee)
 ![status](https://img.shields.io/badge/status-active-181717?style=flat&logo=hackthebox)
 [![X](https://img.shields.io/badge/-@v3hx1-181717?style=flat&logo=x)](https://twitter.com/v3hx1)
-[![github](https://img.shields.io/badge/github-vëhxï-181717?style=flat&logo=github)](https://github.com/vehxi)
