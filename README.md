@@ -1,7 +1,7 @@
 # hi
 
 <p align="left">
-  i'm vëhxï — a student and frontend developer. i totally dig turning ideas into interactive websites.<br>
+  i'm a student and frontend developer. i totally dig turning ideas into interactive websites.<br>
   when i'm not doing that, you'll usually find me just learning new stuff and building out some cool projects.
 </p>
 
