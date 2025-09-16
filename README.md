@@ -1,8 +1,7 @@
-# hi
+# yo, what's good?
 
 <p align="left">
-  i'm a student and frontend developer. i totally dig turning ideas into interactive websites.<br>
-  when i'm not doing that, you'll usually find me just learning new stuff and building out some cool projects.
+  i'm a student and frontend dev, diving into code, crafting sites that hook. that's my vibe, bro. when i'm not coding, i'm jamming to tunes and living it up. life's a grind, but i'm in the game, always going all out. tryna create something dope and make my mark.
 </p>
 
 <p align="left">
