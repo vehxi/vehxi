@@ -1,7 +1,7 @@
 # yo, what's good?
 
 <p align="left">
-  i'm a student and frontend dev, diving into code, crafting sites that hook. that's my vibe, bro. when i'm not coding, i'm jamming to tunes and living it up. life's a grind, but i'm in the game, always going all out. tryna create something dope and make my mark.
+  I’m a frontend developer and student focused on creating engaging, user-friendly web experiences. I’m passionate about clean, efficient code and continuously expanding my skills. Outside of development, I draw inspiration from music and new experiences to fuel creativity and innovation.
 </p>
 
 <p align="left">
