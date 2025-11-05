@@ -1,7 +1,7 @@
 # yo, what's good?
 
 <p align="left">
-  i’m a frontend developer and student focused on creating engaging, user-friendly web experiences. i’m passionate about clean, efficient code and continuously expanding my skills. outside of development, i draw inspiration from music and new experiences to fuel creativity and innovation.
+  I’m a frontend developer and student focused on creating engaging, user-friendly web experiences. I’m passionate about clean, efficient code and continuously expanding my skills. outside of development, I draw inspiration from music and new experiences to fuel creativity and innovation.
 </p>
 
 <p align="left">
