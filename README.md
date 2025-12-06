@@ -1,8 +1,9 @@
-# yo, what's good?
+yo, what's good?
 
-<p align="left">
-  I’m a frontend developer and student focused on creating engaging, user-friendly web experiences. I’m passionate about clean, efficient code and continuously expanding my skills. outside of development, I draw inspiration from music and new experiences to fuel creativity and innovation.
-</p>
+frontend dev & student.  
+building clean, fast, user-friendly web stuff with passion for pixel-perfect code.
+
+inspired by music and new vibes.
 
 <p align="left">
   <img src="https://img.shields.io/badge/status-active | learning-181717?style=plastic&logo=hackthebox" />
