@@ -1,9 +1,17 @@
-yo, what's good?
+<p>yo, what's good?</p>
 
-frontend dev & student.  
-building clean, fast, user-friendly web stuff with passion for pixel-perfect code.
+<p>frontend dev & student.<br>  
+building clean, fast, user-friendly web stuff with passion for pixel-perfect code. </p>
 
-inspired by music and new vibes.
+<p>
+  <img 
+    width="300px" 
+    src="https://i.pinimg.com/originals/bd/4e/56/bd4e56e544e30a8a26c89006f06eb2dc.gif"
+  > 
+  inspired by music and new vibes.
+</p>
+
+<br>
 
 <p align="left">
   <img src="https://img.shields.io/badge/status-active | learning-181717?style=plastic&logo=hackthebox" />
