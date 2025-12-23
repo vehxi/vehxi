@@ -1,7 +1,7 @@
 <p>yo, what's good?</p>
 
 <p>frontend dev & student.<br>  
-building clean, fast, user-friendly web stuff with passion for pixel-perfect code. </p>
+building clean, fast, user-friendly web stuff with a passion for creating visually stunning and elegant interfaces. </p>
 
 <p>
   <img 
