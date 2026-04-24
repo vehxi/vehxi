@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nunito&weight=800&size=24&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=ayo.;just+building+stuff.;welcome.)](https://git.io/typing-svg)
-
 **frontend**
 
 ![React](https://img.shields.io/badge/React-20232a?style=plastic&logo=react&logoColor=61DAFB)
